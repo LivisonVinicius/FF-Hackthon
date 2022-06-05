@@ -1,0 +1,7 @@
+{
+  "name": "ff-hackathon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
